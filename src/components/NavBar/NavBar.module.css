@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+}
+
+.NavBar {
+  height: 80px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+  position: sticky;
+  background-color: #181818;
+  top: 0;
+  z-index: 999;
+  opacity: 0.9;
+}
+
+.logo {
+  font-size: 24px;
+  /*list-style: none;
+  /* display: flex;
+  justify-content: left; /* inline-block; */
+  /* margin: 20px; */
+  /* padding: 8px 12px; */
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.icon {
+  list-style: none;
+  display: flex;
+  padding-left: 0;
+}
