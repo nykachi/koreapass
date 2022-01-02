@@ -8,10 +8,14 @@ import Contact from "./components/Contact/Contact";
 import ReactPlayer from "react-player";
 
 const App = () => {
+  
   return (
     <div className="App">
      < NavBar />
-     <ReactPlayer controls url='https://www.youtube.com/watch?v=MD2Q6cqVmL4&ab_channel=JayLim' />
+     <ReactPlayer
+      width={"100%"}
+      height={"100%"}
+      controls url='https://www.youtube.com/watch?v=MD2Q6cqVmL4&ab_channel=JayLim' />
      < Home />
      < About />
      < Skills />
