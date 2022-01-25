@@ -1,5 +1,7 @@
-body {
+* {
   margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 .NavBar {
@@ -9,7 +11,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 6px 12px;
+
   position: sticky;
   top: 0;
   z-index: 999;
@@ -46,5 +48,5 @@ body {
 .icon a {
   text-decoration: none;
   color: white;
-  padding-right: 20px;
+  padding-right: 10px;
 }
