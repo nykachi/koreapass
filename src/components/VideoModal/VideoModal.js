@@ -1,33 +1,25 @@
-import React, { Component } from 'react';
+import React, { useState } from 'react';
 import ModalVideo from 'react-modal-video';
 import 'react-modal-video/scss/modal-video.scss';
+import 'react-responsive-modal/styles.css';
+/*import { modal } from 'react-responsive-modal';*/
 
-export class VideoModal extends Component {
-  constructor() {
-    super();
-    this.state = {
-      isOpen: false,
-    };
-    this.openModal = this.openModal.bind(this);
-  }
+export default function VideoResponModal() {
+  const [isOpen, setOpen] = useState(false);
 
-  openModal() {
-    this.setState({ isOpen: true });
-  }
-  render() {
-    return (
-      <div>
-        <div>
-          <ModalVideo
-            channel="youtube"
-            isOpen={this.state.isOpen}
-            videoId="MD2Q6cqVmL4"
-            onClose={() => this.setState({ isOpen: false })}
-          />
-          <button onClick={this.openModal}>Open</button>
-        </div>
-      </div>
-    );
-  }
+  return (
+    <React.Fragment>
+      <ModalVideo
+        channel="youtube"
+        autoplay
+        isOpen={isOpen}
+        videoId="mHpu2DI3m0I"
+        onClose={() => setOpen(false)}
+      />
+
+      <button className="btn-primary" onClick={() => setOpen(true)}>
+        open
+      </button>
+    </React.Fragment>
+  );
 }
-export default VideoModal;

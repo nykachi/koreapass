@@ -1,52 +1,169 @@
-* {
+body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-.NavBar {
-  width: 100%;
-  height: 45px;
-  background-color: #181818;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+a {
+  text-decoration: none;
+  color: white;
+}
 
+.NavBar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #181818;
+  /*background-color: #263343;*/
+  /*padding: 8px 12px;*/
+  /*gap: 12rem;*/
   position: sticky;
   top: 0;
   z-index: 999;
   opacity: 0.9;
+  width: 100%;
+  height: 2.2rem;
 }
 
-.NavBar a {
-  list-style: none;
-}
-
-.NavBar a:hover {
-  border-bottom: 3px solid #8c1cd1;
-}
-
-.logo a {
-  font-size: 24px;
-  text-decoration: none;
+.NavBar .logo a {
+  /* position: absolute;
+  left: 2%;*/
+  font-size: 1.5rem;
   color: white;
-  list-style: none;
-  padding-left: 5px;
+  padding: 0;
+  /*text-decoration: none;
+  list-style: none;*/
 }
 
-.menu {
+/*.NavBar {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  display: flex;
+}*/
+
+.NavBar .menu {
   display: flex;
   list-style: none;
+  padding-left: 0;
 }
 
-.menu a {
+.NavBar .menu a {
+  font-size: 0.8rem;
   color: white;
   text-decoration: none;
   margin: 20px;
 }
 
-.icon a {
+.NavBar .menu li {
+  padding: 8px 30px;
+}
+
+.NavBar .icon a {
+  list-style: none;
+  font-size: 1rem;
+  color: white;
+}
+/*.icon a {
+  font-size: 0.8rem;
   text-decoration: none;
   color: white;
   padding-right: 10px;
+}*/
+
+.NavBar a:hover {
+  border-bottom: 3px solid #8c1cd1;
+}
+
+.NavBar .MobileNavigation {
+  display: none;
+}
+
+@media screen and (max-width: 900px) {
+  body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  .NavBar {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    align-items: center;
+    gap: 0;
+  }
+
+  .NavBar .menu {
+    margin: 0;
+    padding: 0;
+  }
+
+  .NavBar .logo a {
+    position: absolute;
+    top: 0;
+    left: 0px;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .NavBar .menu li {
+    width: 100%;
+    text-align: center;
+    padding: 0.5rem 0rem;
+  }
+
+  .NavBar .menu a {
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+  .NavBar .Navigation {
+    display: none;
+  }
+  .NavBar .MobileNavigation {
+    width: 100%;
+    margin-top: 4rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    background-color: red;
+  }
+
+  .NavBar .MobileNavigation .logo a {
+    position: absolute;
+    top: 0;
+    left: 0px;
+  }
+
+  .NavBar .MobileNavigation .menu a {
+    margin-top: 0;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+  .NavBar .MobileNavigation .Hamburger {
+    position: absolute;
+    top: 0;
+    right: 0;
+    cursor: pointer;
+  }
+
+  .NavBar .icon {
+    display: none;
+  }
+
+  .NavBar .menu {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 2.2rem;
+    right: 1%;
+    width: 100%;
+    background-color: #181818;
+  }
 }
