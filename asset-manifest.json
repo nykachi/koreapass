@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/koreapass.com/static/css/main.635f01af.css",
-    "main.js": "/koreapass.com/static/js/main.2fc95240.js",
-    "static/media/jar453.jpg": "/koreapass.com/static/media/jar453.16426e2e45da7cf433fc.jpg",
-    "static/media/tm4537.jpg": "/koreapass.com/static/media/tm4537.ba325288e468e6b215e7.jpg",
-    "static/media/tm4533.jpg": "/koreapass.com/static/media/tm4533.98b7f52727f08ee4c13d.jpg",
-    "static/media/bts453.jpg": "/koreapass.com/static/media/bts453.6c2efecef7bbf18aa840.jpg",
-    "static/media/tm45311.jpg": "/koreapass.com/static/media/tm45311.e827a67a902ecfceca09.jpg",
-    "static/media/busan453.jpg": "/koreapass.com/static/media/busan453.e6233cec2cbf7e02258f.jpg",
-    "static/media/korea453.jpg": "/koreapass.com/static/media/korea453.6793ea49742d488bb020.jpg",
-    "static/media/tm4531.jpg": "/koreapass.com/static/media/tm4531.ab58013b33e8359cb8eb.jpg",
-    "index.html": "/koreapass.com/index.html",
-    "main.635f01af.css.map": "/koreapass.com/static/css/main.635f01af.css.map",
-    "main.2fc95240.js.map": "/koreapass.com/static/js/main.2fc95240.js.map"
+    "main.css": "/static/css/main.635f01af.css",
+    "main.js": "/static/js/main.f37543cd.js",
+    "static/media/jar453.jpg": "/static/media/jar453.16426e2e45da7cf433fc.jpg",
+    "static/media/tm4537.jpg": "/static/media/tm4537.ba325288e468e6b215e7.jpg",
+    "static/media/tm4533.jpg": "/static/media/tm4533.98b7f52727f08ee4c13d.jpg",
+    "static/media/bts453.jpg": "/static/media/bts453.6c2efecef7bbf18aa840.jpg",
+    "static/media/tm45311.jpg": "/static/media/tm45311.e827a67a902ecfceca09.jpg",
+    "static/media/busan453.jpg": "/static/media/busan453.e6233cec2cbf7e02258f.jpg",
+    "static/media/korea453.jpg": "/static/media/korea453.6793ea49742d488bb020.jpg",
+    "static/media/tm4531.jpg": "/static/media/tm4531.ab58013b33e8359cb8eb.jpg",
+    "index.html": "/index.html",
+    "main.635f01af.css.map": "/static/css/main.635f01af.css.map",
+    "main.f37543cd.js.map": "/static/js/main.f37543cd.js.map"
   },
   "entrypoints": [
     "static/css/main.635f01af.css",
-    "static/js/main.2fc95240.js"
+    "static/js/main.f37543cd.js"
   ]
 }
