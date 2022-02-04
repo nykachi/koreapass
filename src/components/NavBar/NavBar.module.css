@@ -28,7 +28,7 @@ a {
 .NavBar .logo a {
   /* position: absolute;
   left: 2%;*/
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   color: white;
   padding: 0;
   /*text-decoration: none;
@@ -49,19 +49,19 @@ a {
 }
 
 .NavBar .menu a {
-  font-size: 0.8rem;
+  font-size: 0.7rem;
   color: white;
   text-decoration: none;
-  margin: 20px;
+  margin: 0;
 }
 
 .NavBar .menu li {
-  padding: 8px 30px;
+  padding: 1rem 1.5rem;
 }
 
 .NavBar .icon a {
   list-style: none;
-  font-size: 1rem;
+  font-size: 0.7rem;
   color: white;
 }
 /*.icon a {

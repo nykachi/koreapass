@@ -69,6 +69,10 @@ body > .info {
   border-radius: 5%;
 }
 
+.info .item .img .tt {
+  text-align: center;
+}
+
 .info .item .info {
   flex: 1 1 50%;
 }
@@ -130,6 +134,10 @@ body > .info {
 .upNext .item .img img {
   width: 100%;
   border-radius: 5%;
+}
+
+.upNext .item .img .tt {
+  text-align: center;
 }
 
 .upNext .item .info {

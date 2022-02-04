@@ -2,11 +2,11 @@ import classes from './../Kmusic/Kmusic.module.css';
 import korea453 from '../../img/korea453.jpg';
 import bts453 from '../../img/bts453.jpg';
 import tm45311 from '../../img/tm45311.jpg';
-import gyeongbokpalace453 from '../../img/gyeongbokpalace453.jpg';
+import jar453 from '../../img/jar453.jpg';
 import tm4533 from '../../img/tm4533.jpg';
 import tm4537 from '../../img/tm4537.jpg';
 import busan453 from '../../img/busan453.jpg';
-import hanok453 from '../../img/hanok453.jpg';
+
 import tm4531 from '../../img/tm4531.jpg';
 import PageHeader from '../PageHeader/PageHeader';
 
@@ -14,7 +14,7 @@ const Home001 = () => {
   return (
     <>
       <div className={classes.Kmusic} id="home">
-        <PageHeader title={'Most popula'} />
+        <PageHeader title={'Most popular'} />
       </div>
 
       <div className={classes.infoAndupNext}>
@@ -47,7 +47,7 @@ const Home001 = () => {
                 <p className={classes.tt}>
                   BTS Music Video
                   <br />
-                  한인그룹 비티에스 뮤직비디오
+                  한인그룹 BTS 뮤직비디오
                 </p>
               </div>
             </li>
@@ -55,31 +55,31 @@ const Home001 = () => {
             <li className={classes.item}>
               <div className={classes.img}>
                 <a
-                  href="https://www.youtube.com/results?search_query=%EC%97%B0%EC%86%8D%EA%B7%B9%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0"
+                  href="https://search.naver.com/search.naver?where=nexearch&sm=top_sug.pre&fbm=1&acr=1&acq=%EA%B0%80%EC%9A%94%EC%B0%A8&qdt=0&ie=utf8&query=%EA%B0%80%EC%9A%94%EC%B0%A8%ED%8A%B8"
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <img src={tm45311} className={classes.tm45311} alt="" />
+                  <img src={tm4531} className={classes.tm4531} alt="" />
                 </a>
                 <p className={classes.tt}>
-                  K-Drama , K-Culture
+                  Korea Weekly Music Chart.
                   <br />
-                  한국 드라마 , 한국 문화
+                  한국 가요 주간 순위 차트
                 </p>
               </div>
 
               <div className={classes.img}>
                 <a
-                  href="https://www.youtube.com/results?search_query=korea+tour+guide"
+                  href="https://www.youtube.com/results?search_query=%ED%95%9C%EC%8B%9D"
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <img src={tm4533} className={classes.tm4533} alt="" />
+                  <img src={jar453} className={classes.jar453} alt="" />
                 </a>
                 <p className={classes.tt}>
-                  Korea Tour Guide.
+                  K-Food
                   <br />
-                  한국여행 가이드 영상모음
+                  한국음식, 대중음식, 한식
                 </p>
               </div>
             </li>
@@ -123,30 +123,30 @@ const Home001 = () => {
             <li className={classes.item}>
               <div class={classes.img}>
                 <a
-                  href="https://www.youtube.com/results?search_query=%EC%A0%84%EC%A3%BC%ED%95%9C%EC%98%A5%EB%B8%94%EB%A1%9C%EA%B7%B8"
+                  href="https://www.youtube.com/results?search_query=%EC%97%B0%EC%86%8D%EA%B7%B9%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0"
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <img src={hanok453} className={classes.hanok453} alt="" />
+                  <img src={tm45311} className={classes.tm45311} alt="" />
                 </a>
                 <p className={classes.tt}>
-                  JeonJu Hanok Village.
+                  K-Drama , K-Culture
                   <br />
-                  전주 한옥 마을, 고풍과 고즈넉함
+                  한국 드라마 , 한국 문화
                 </p>
               </div>
               <div className={classes.img}>
                 <a
-                  href="https://search.naver.com/search.naver?where=nexearch&sm=top_sug.pre&fbm=1&acr=1&acq=%EA%B0%80%EC%9A%94%EC%B0%A8&qdt=0&ie=utf8&query=%EA%B0%80%EC%9A%94%EC%B0%A8%ED%8A%B8"
+                  href="https://www.youtube.com/results?search_query=korea+tour+guide"
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <img src={tm4531} className={classes.tm4531} alt="" />
+                  <img src={tm4533} className={classes.tm4533} alt="" />
                 </a>
                 <p className={classes.tt}>
-                  Korea Weekly Music Chart.
+                  Korea Tour Guide.
                   <br />
-                  한국 가요 주간 순위 차트
+                  한국여행 가이드 영상모음
                 </p>
               </div>
             </li>

@@ -1,0 +1,46 @@
+.ModalVideo {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.7);
+  z-index: 999;
+}
+
+/* this is better to use transform for center the modal and width */
+.ModalVideo {
+  position: absolute; /* if it's inside your ReactModal__Overlay if not use Fixed and a higher z-index.*/
+  width: 100%;
+  height: 100%;
+  left: 50%;
+  top: 50%;
+  overflow: auto;
+  background-color: #fff;
+  -webkit-transform: translate(-50, -50%);
+  transform: translate(-50, -50%);
+}
+
+@media screen and (min-width: 992px) {
+  /* desktop */
+  .ModalVideo {
+    max-width: 200px;
+    max-height: 80%;
+  }
+}
+
+@media screen and (min-width: 426px) and (max-width: 991) {
+  /* tablet size */
+  .ModalVideo {
+    max-width: 80%;
+    max-height: 80%;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  /* mobile size */
+  .ModalVideo {
+    max-width: 100%;
+    max-height: 100%;
+  }
+}

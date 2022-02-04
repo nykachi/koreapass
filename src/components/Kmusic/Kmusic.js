@@ -6,7 +6,7 @@ const Kmusic = () => {
   return (
     <>
       <div className={classes.Kmusic} id="kmusic">
-        <PageHeader title={'Entire K-Music'} />
+        <PageHeader title={'K-Music'} />
       </div>
 
       <div className={classes.infoAndupNext}>

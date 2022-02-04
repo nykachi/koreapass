@@ -136,10 +136,6 @@ body > .info {
   border-radius: 5%;
 }
 
-.upNext .item .img .tt {
-  text-align: center;
-}
-
 .upNext .item .info {
   flex: 1 1 50%;
 }

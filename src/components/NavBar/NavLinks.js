@@ -10,19 +10,32 @@ const NavLinks = () => {
 
         <ul className={classes.menu}>
           <li>
-            <a href="/">Home</a>
+            <a href="/#Mostlists">K-MostList</a>
           </li>
           <li>
             <a href="/#kmusic">K-Music</a>
           </li>
+
           <li>
-            <a href="/#skills">Skills</a>
+            <a href="/#kFood">K-Food</a>
           </li>
           <li>
-            <a href="/#youtube">YouTube</a>
+            <a href="/#kCulture">Culture</a>
           </li>
           <li>
-            <a href="/#contact">Contact</a>
+            <a href="/#hotplace">Hot-place</a>
+          </li>
+          <li>
+            <a href="/#kTV">K-TV</a>
+          </li>
+          <li>
+            <a href="/#kGuide">K-guide</a>
+          </li>
+          <li>
+            <a href="/#sports">K-sports</a>
+          </li>
+          <li>
+            <a href="/#ksocial">K-social</a>
           </li>
         </ul>
 
