@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.635f01af.css",
-    "main.js": "/static/js/main.40e0acee.js",
-    "static/media/jar453.jpg": "/static/media/jar453.16426e2e45da7cf433fc.jpg",
-    "static/media/tm4537.jpg": "/static/media/tm4537.ba325288e468e6b215e7.jpg",
-    "static/media/tm4533.jpg": "/static/media/tm4533.98b7f52727f08ee4c13d.jpg",
-    "static/media/bts453.jpg": "/static/media/bts453.6c2efecef7bbf18aa840.jpg",
-    "static/media/tm45311.jpg": "/static/media/tm45311.e827a67a902ecfceca09.jpg",
-    "static/media/busan453.jpg": "/static/media/busan453.e6233cec2cbf7e02258f.jpg",
-    "static/media/korea453.jpg": "/static/media/korea453.6793ea49742d488bb020.jpg",
-    "static/media/tm4531.jpg": "/static/media/tm4531.ab58013b33e8359cb8eb.jpg",
-    "index.html": "/index.html",
-    "main.635f01af.css.map": "/static/css/main.635f01af.css.map",
-    "main.40e0acee.js.map": "/static/js/main.40e0acee.js.map"
+    "main.css": "/koreapass/static/css/main.635f01af.css",
+    "main.js": "/koreapass/static/js/main.1febe4de.js",
+    "static/media/jar453.jpg": "/koreapass/static/media/jar453.16426e2e45da7cf433fc.jpg",
+    "static/media/tm4537.jpg": "/koreapass/static/media/tm4537.ba325288e468e6b215e7.jpg",
+    "static/media/tm4533.jpg": "/koreapass/static/media/tm4533.98b7f52727f08ee4c13d.jpg",
+    "static/media/bts453.jpg": "/koreapass/static/media/bts453.6c2efecef7bbf18aa840.jpg",
+    "static/media/tm45311.jpg": "/koreapass/static/media/tm45311.e827a67a902ecfceca09.jpg",
+    "static/media/busan453.jpg": "/koreapass/static/media/busan453.e6233cec2cbf7e02258f.jpg",
+    "static/media/korea453.jpg": "/koreapass/static/media/korea453.6793ea49742d488bb020.jpg",
+    "static/media/tm4531.jpg": "/koreapass/static/media/tm4531.ab58013b33e8359cb8eb.jpg",
+    "index.html": "/koreapass/index.html",
+    "main.635f01af.css.map": "/koreapass/static/css/main.635f01af.css.map",
+    "main.1febe4de.js.map": "/koreapass/static/js/main.1febe4de.js.map"
   },
   "entrypoints": [
     "static/css/main.635f01af.css",
-    "static/js/main.40e0acee.js"
+    "static/js/main.1febe4de.js"
   ]
 }
