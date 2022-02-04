@@ -1,6 +1,6 @@
 import classes from './NavBar.module.css';
 
-const NavLinks = () => {
+const NavLinks = (props) => {
   return (
     <>
       <nav className={classes.NavBar}>
@@ -9,32 +9,32 @@ const NavLinks = () => {
         </div>
 
         <ul className={classes.menu}>
-          <li>
+          <li onClick={() => props.isMobile && props.closeMobileMenu()}>
             <a href="/#Mostlists">K-MostList</a>
           </li>
-          <li>
+          <li onClick={() => props.isMobile && props.closeMobileMenu()}>
             <a href="/#kmusic">K-Music</a>
           </li>
 
-          <li>
+          <li onClick={() => props.isMobile && props.closeMobileMenu()}>
             <a href="/#kFood">K-Food</a>
           </li>
-          <li>
+          <li onClick={() => props.isMobile && props.closeMobileMenu()}>
             <a href="/#kCulture">Culture</a>
           </li>
-          <li>
+          <li onClick={() => props.isMobile && props.closeMobileMenu()}>
             <a href="/#hotplace">Hot-place</a>
           </li>
-          <li>
+          <li onClick={() => props.isMobile && props.closeMobileMenu()}>
             <a href="/#kTV">K-TV</a>
           </li>
-          <li>
+          <li onClick={() => props.isMobile && props.closeMobileMenu()}>
             <a href="/#kGuide">K-guide</a>
           </li>
-          <li>
+          <li onClick={() => props.isMobile && props.closeMobileMenu()}>
             <a href="/#sports">K-sports</a>
           </li>
-          <li>
+          <li onClick={() => props.isMobile && props.closeMobileMenu()}>
             <a href="/#ksocial">K-social</a>
           </li>
         </ul>
