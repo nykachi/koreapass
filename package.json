@@ -1,7 +1,7 @@
 {
   "name": "koreapass",
   "version": "0.1.0",
-  "homepage": "https://www.koreapass.com",
+  "homepage": "https://koreapass.com",
   "private": true,
   "dependencies": {
     "@fontsource/roboto": "^4.5.1",
