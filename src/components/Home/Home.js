@@ -120,20 +120,7 @@ const Home = () => {
                 부산의 명소 가볼만 한 곳
               </p>
             </div>
-            <div className={classes.img}>
-              <a
-                href="https://www.youtube.com/results?search_query=%EC%A0%84%EC%A3%BC%ED%95%9C%EC%98%A5%EB%B8%94%EB%A1%9C%EA%B7%B8"
-                target="_blank"
-                rel="noreferrer"
-              >
-                <img src={hanok453} className={classes.hanok453} alt="" />
-              </a>
-              <p className={classes.tt}>
-                JeonJu Hanok Village.
-                <br />
-                전주 한옥 마을, 고풍과 고즈넉함
-              </p>
-            </div>
+
             <div className={classes.img}>
               <a
                 href="https://search.naver.com/search.naver?where=nexearch&sm=top_sug.pre&fbm=1&acr=1&acq=%EA%B0%80%EC%9A%94%EC%B0%A8&qdt=0&ie=utf8&query=%EA%B0%80%EC%9A%94%EC%B0%A8%ED%8A%B8"

@@ -1,4 +1,4 @@
-import PageHeader from '../PageHeader/PageHeader';
+/*import PageHeader from '../PageHeader/PageHeader';*/
 import classes from './MostList.module.css';
 
 const listTitleStyle = {

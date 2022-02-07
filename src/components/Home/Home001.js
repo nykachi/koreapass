@@ -1,41 +1,28 @@
 import classes from './../Kmusic/Kmusic.module.css';
-import korea453 from '../../img/korea453.jpg';
+
 import bts453 from '../../img/bts453.jpg';
 import tm45311 from '../../img/tm45311.jpg';
-import jar453 from '../../img/jar453.jpg';
-import tm4533 from '../../img/tm4533.jpg';
-import tm4537 from '../../img/tm4537.jpg';
-import busan453 from '../../img/busan453.jpg';
 
-import tm4531 from '../../img/tm4531.jpg';
+import fourthingsplay from '../../img/fourthingsplay.png';
+import chang from '../../img/chang.png';
+import tkd from '../../img/tkd.png';
+import gugakorche from '../../img/gugakorche.png';
+import icnairport from '../../img/icnairport.png';
+import simkorea from '../../img/simkorea.png';
+
 import PageHeader from '../PageHeader/PageHeader';
 
 const Home001 = () => {
   return (
     <>
       <div className={classes.Kmusic} id="home">
-        <PageHeader title={'Most popular'} />
+        <PageHeader title={'Some others'} />
       </div>
 
       <div className={classes.infoAndupNext}>
         <section className={classes.info}>
           <ul>
             <li className={classes.item}>
-              <div className={classes.img}>
-                <a
-                  href="https://www.youtube.com/results?search_query=k-pop"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <img src={korea453} className={classes.korea453} alt="" />
-                </a>
-                <p className={classes.tt}>
-                  K-Pop , Korea Music
-                  <br />
-                  한국 대중가요 뮤직비디오
-                </p>
-              </div>
-
               <div className={classes.img}>
                 <a
                   href="https://www.youtube.com/results?search_query=bts"
@@ -50,36 +37,54 @@ const Home001 = () => {
                   한인그룹 BTS 뮤직비디오
                 </p>
               </div>
+              <div className={classes.img}>
+                <a
+                  href="https://www.youtube.com/results?search_query=%EC%82%AC%EB%AC%BC%EB%86%80%EC%9D%B4"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img
+                    src={fourthingsplay}
+                    className={classes.fourthingsplay}
+                    alt=""
+                  />
+                </a>
+                <p className={classes.tt}>
+                  Samulnori, K Traditional
+                  <br />
+                  Percussion Quartet
+                </p>
+              </div>
             </li>
 
             <li className={classes.item}>
               <div className={classes.img}>
                 <a
-                  href="https://search.naver.com/search.naver?where=nexearch&sm=top_sug.pre&fbm=1&acr=1&acq=%EA%B0%80%EC%9A%94%EC%B0%A8&qdt=0&ie=utf8&query=%EA%B0%80%EC%9A%94%EC%B0%A8%ED%8A%B8"
+                  href="https://www.youtube.com/results?search_query=%EA%B5%AD%EC%95%85%2B%22%EC%B0%BD%22"
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <img src={tm4531} className={classes.tm4531} alt="" />
+                  <img src={chang} className={classes.chang} alt="" />
                 </a>
                 <p className={classes.tt}>
-                  Korea Weekly Music Chart.
+                  Gukak, Korean classical.
                   <br />
-                  한국 가요 주간 순위 차트
+                  chang, K Traditional Song
                 </p>
               </div>
 
               <div className={classes.img}>
                 <a
-                  href="https://www.youtube.com/results?search_query=%ED%95%9C%EC%8B%9D"
+                  href="https://www.youtube.com/results?search_query=%EA%B5%AD%EB%A6%BD%EA%B5%AD%EC%95%85%EA%B4%80%ED%98%84%EC%95%85%EB%8B%A8%2B%22%EA%B5%AD%EC%95%85%EA%B4%80%ED%98%84%EC%95%85%EB%8B%A8%22"
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <img src={jar453} className={classes.jar453} alt="" />
+                  <img src={gugakorche} className={classes.gugakorche} alt="" />
                 </a>
                 <p className={classes.tt}>
-                  K-Food
+                  The National Gugak Orchestra.
                   <br />
-                  한국음식, 대중음식, 한식
+                  국림국악관현악단. 국악
                 </p>
               </div>
             </li>
@@ -91,31 +96,31 @@ const Home001 = () => {
             <li className={classes.item}>
               <div className={classes.img}>
                 <a
-                  href="https://www.youtube.com/results?search_query=%EC%84%9C%EC%9A%B8%EB%AA%85%EC%86%8C"
+                  href="https://www.youtube.com/results?search_query=%ED%83%9C%EA%B6%8C%EB%8F%84"
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <img src={tm4537} className={classes.tm4537} alt="" />
+                  <img src={tkd} className={classes.tkd} alt="" />
                 </a>
                 <p className={classes.tt}>
-                  Seoul Hot Place.
+                  Tae Kwon Do.
                   <br />
-                  서울의 가볼만한 곳 , 핫 플레이스
+                  태권도 , K Martial arts
                 </p>
               </div>
 
               <div className={classes.img}>
                 <a
-                  href="https://www.youtube.com/results?search_query=%EB%B6%80%EC%82%B0%EB%AA%85%EC%86%8C"
+                  href="https://www.youtube.com/results?search_query=korea+tour+guide"
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <img src={busan453} className={classes.busan453} alt="" />
+                  <img src={tm45311} className={classes.tm45311} alt="" />
                 </a>
                 <p className={classes.tt}>
-                  Busan Tour Hot Place.
+                  Korea Tour Guide
                   <br />
-                  부산의 명소 가볼만 한 곳
+                  한국여행 가이드, 안내
                 </p>
               </div>
             </li>
@@ -123,30 +128,30 @@ const Home001 = () => {
             <li className={classes.item}>
               <div class={classes.img}>
                 <a
-                  href="https://www.youtube.com/results?search_query=%EC%97%B0%EC%86%8D%EA%B7%B9%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0"
+                  href="https://www.youtube.com/results?search_query=how+to+get+from+incheon+airport+to+seoul+"
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <img src={tm45311} className={classes.tm45311} alt="" />
+                  <img src={icnairport} className={classes.icnairport} alt="" />
                 </a>
                 <p className={classes.tt}>
-                  K-Drama , K-Culture
+                  How to Inchen to Seoul
                   <br />
-                  한국 드라마 , 한국 문화
+                  Airport to Seoul.
                 </p>
               </div>
               <div className={classes.img}>
                 <a
-                  href="https://www.youtube.com/results?search_query=korea+tour+guide"
+                  href="https://www.youtube.com/results?search_query=sim+cart+in+inchen+airport"
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <img src={tm4533} className={classes.tm4533} alt="" />
+                  <img src={simkorea} className={classes.simkorea} alt="" />
                 </a>
                 <p className={classes.tt}>
-                  Korea Tour Guide.
+                  How to get SIM Card.
                   <br />
-                  한국여행 가이드 영상모음
+                  Get SIM Card in Airport
                 </p>
               </div>
             </li>

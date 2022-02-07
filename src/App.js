@@ -9,17 +9,19 @@ import Contact from './components/Contact/Contact';
 import Video from './components/Video/Video';
 
 import Home001 from './components/Home/Home001';
-import MostList from './components/MostList/MostList';
+/*import MostList from './components/MostList/MostList';*/
+import MostList001 from './components/MostList/MostList001';
 
 const App = () => {
   return (
     <div className="App">
       <NavBar />
       <Video />
-      <MostList />
 
+      <MostList001 />
       <Home001 />
       <Kmusic />
+
       <Skills />
       <VideoModal />
       <YouTube />
