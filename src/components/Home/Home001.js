@@ -135,7 +135,7 @@ const Home001 = () => {
                   <img src={icnairport} className={classes.icnairport} alt="" />
                 </a>
                 <p className={classes.tt}>
-                  How to Inchen to Seoul
+                  How to ... Inchen to Seoul
                   <br />
                   Airport to Seoul.
                 </p>

@@ -5,6 +5,7 @@ import korea453 from '../../img/korea453.jpg';
 const Kmusic = () => {
   return (
     <>
+      <br />
       <div className={classes.Kmusic} id="kmusic">
         <PageHeader title={'K-Music'} />
       </div>
@@ -17,7 +18,7 @@ const Kmusic = () => {
                 <a
                   href="https://www.youtube.com/results?search_query=k-pop"
                   target="_blank"
-                  rel="noreferrer"
+                  rel="noopener noreferrer"
                 >
                   <img src={korea453} className={classes.korea453} alt="" />
                 </a>
@@ -27,7 +28,7 @@ const Kmusic = () => {
                 <a
                   href="https://www.youtube.com/results?search_query=k-pop"
                   target="_blank"
-                  rel="noreferrer"
+                  rel="noopener noreferrer"
                 >
                   <img src={korea453} className={classes.korea453} alt="" />
                 </a>
@@ -40,7 +41,7 @@ const Kmusic = () => {
                 <a
                   href="https://www.youtube.com/results?search_query=k-pop"
                   target="_blank"
-                  rel="noreferrer"
+                  rel="noopener noreferrer"
                 >
                   <img src={korea453} className={classes.korea453} alt="" />
                 </a>
@@ -50,7 +51,7 @@ const Kmusic = () => {
                 <a
                   href="https://www.youtube.com/results?search_query=k-pop"
                   target="_blank"
-                  rel="noreferrer"
+                  rel="noopener noreferrer"
                 >
                   <img src={korea453} className={classes.korea453} alt="" />
                 </a>
@@ -67,7 +68,7 @@ const Kmusic = () => {
                 <a
                   href="https://www.youtube.com/results?search_query=k-pop"
                   target="_blank"
-                  rel="noreferrer"
+                  rel="noopener noreferrer"
                 >
                   <img src={korea453} className={classes.korea453} alt="" />
                 </a>
@@ -77,7 +78,7 @@ const Kmusic = () => {
                 <a
                   href="https://www.youtube.com/results?search_query=k-pop"
                   target="_blank"
-                  rel="noreferrer"
+                  rel="noopener noreferrer"
                 >
                   <img src={korea453} className={classes.korea453} alt="" />
                 </a>
@@ -90,7 +91,7 @@ const Kmusic = () => {
                 <a
                   href="https://www.youtube.com/results?search_query=k-pop"
                   target="_blank"
-                  rel="noreferrer"
+                  rel="noopener noreferrer"
                 >
                   <img src={korea453} className={classes.korea453} alt="" />
                 </a>
@@ -100,7 +101,7 @@ const Kmusic = () => {
                 <a
                   href="https://www.youtube.com/results?search_query=k-pop"
                   target="_blank"
-                  rel="noreferrer"
+                  rel="noopener noreferrer"
                 >
                   <img src={korea453} className={classes.korea453} alt="" />
                 </a>
