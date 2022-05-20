@@ -4,7 +4,7 @@
   --black-color: #212121;
   --blue-color: #2962ff;
   --red-color: #d50000;
-  --grey-dark-color: #9e9e9e;
+  --grey-dark-color: #5b5959;
   --grey-light-color: #e0e0e0;
   /* Size */
   --padding: 12px;
@@ -175,5 +175,11 @@ body > .info {
   .infoAndupNext {
     flex-direction: column;
     margin: var(--padding) 0;
+  }
+
+  .info {
+    padding: 0 var(--padding);
+    border-top: 10px solid var(--grey-light-color);
+    border-bottom: none;
   }
 }
