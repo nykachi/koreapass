@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ef2031c8.css",
-    "main.js": "/static/js/main.00d0a990.js",
+    "main.css": "/static/css/main.8f2a639c.css",
+    "main.js": "/static/js/main.d28e00b9.js",
     "static/media/kvillekpop.png": "/static/media/kvillekpop.644c792c7b2e7e1a051a.png",
     "static/media/ivekpop.png": "/static/media/ivekpop.0760bb3d24b5292a8b27.png",
     "static/media/starkpop.png": "/static/media/starkpop.446828bb9766387e944e.png",
@@ -11,19 +11,23 @@
     "static/media/chang.png": "/static/media/chang.24144bd67055a420d3b7.png",
     "static/media/simkorea.png": "/static/media/simkorea.ff9fe84b63c2d58a5ece.png",
     "static/media/mnetkpop.png": "/static/media/mnetkpop.557fec620237844b3d5f.png",
+    "static/media/koreabab.png": "/static/media/koreabab.6dd5dd8ecd8c282997b0.png",
+    "static/media/tasteguy.png": "/static/media/tasteguy.0ee1e59d73bcc6e3d31d.png",
+    "static/media/backclass.png": "/static/media/backclass.8098c470cffeae993bdb.png",
     "static/media/fourthingsplay.png": "/static/media/fourthingsplay.25678bf59a2b2aa43b6b.png",
     "static/media/mbckpop.png": "/static/media/mbckpop.1b2c662195af791fe706.png",
     "static/media/tkd.png": "/static/media/tkd.8f0b453c8d57315e9556.png",
+    "static/media/sikgak.png": "/static/media/sikgak.7acd976e8fbc1bb94e5c.png",
     "static/media/planetkpop.png": "/static/media/planetkpop.33d22208a5a78becbe6f.png",
     "static/media/kbskpop.png": "/static/media/kbskpop.38e069c12d396690833b.png",
     "static/media/bts453.jpg": "/static/media/bts453.6c2efecef7bbf18aa840.jpg",
     "static/media/tm45311.jpg": "/static/media/tm45311.e827a67a902ecfceca09.jpg",
     "index.html": "/index.html",
-    "main.ef2031c8.css.map": "/static/css/main.ef2031c8.css.map",
-    "main.00d0a990.js.map": "/static/js/main.00d0a990.js.map"
+    "main.8f2a639c.css.map": "/static/css/main.8f2a639c.css.map",
+    "main.d28e00b9.js.map": "/static/js/main.d28e00b9.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef2031c8.css",
-    "static/js/main.00d0a990.js"
+    "static/css/main.8f2a639c.css",
+    "static/js/main.d28e00b9.js"
   ]
 }
