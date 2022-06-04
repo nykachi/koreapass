@@ -27,7 +27,7 @@ const Kmusic001 = () => {
               </div>
               <div className={classes.info}>
                 <span className={classes.title}>
-                  This Week K-Pop Chart in Mnet.
+                  백종원 클라쓰 / Fun Cooking with Korea Tour.
                 </span>
               </div>
             </li>
@@ -43,14 +43,14 @@ const Kmusic001 = () => {
               </div>
               <div className={classes.info}>
                 <span className={classes.title}>
-                  This Week K-Pop Chart in Mnet.
+                  한국인의 밥상 / Most of Korean Food in Core...
                 </span>
               </div>
             </li>
           </ul>
         </section>
 
-        <section className={classes.upNext}>
+        <section className={classes.info}>
           <ul>
             <li className={classes.item}>
               <div className={classes.img}>
@@ -64,7 +64,7 @@ const Kmusic001 = () => {
               </div>
               <div className={classes.info}>
                 <span className={classes.title}>
-                  This Week K-Pop Chart in Mnet.
+                  맛있는 녀석들 / Funny Guys Food Tour ...
                 </span>
               </div>
             </li>
@@ -81,7 +81,7 @@ const Kmusic001 = () => {
               </div>
               <div className={classes.info}>
                 <span className={classes.title}>
-                  This Week K-Pop Chart in Mnet.
+                  식객 허영만의 백반기행 / Tour in Korea Taste Restaurants.
                 </span>
               </div>
             </li>
