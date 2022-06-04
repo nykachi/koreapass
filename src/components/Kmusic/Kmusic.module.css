@@ -11,10 +11,10 @@
   --avata-size: 36px;
 
   /* Font Size */
-  --font-large: 18px;
-  --font-medium: 14px;
-  --font-small: 12px;
-  --font-micro: 10px;
+  --font-large: 4rem;
+  --font-medium: 1rem;
+  --font-small: 0.7rem;
+  --font-mico: 0.5rem;
 }
 
 * {
@@ -88,7 +88,7 @@ body > .info {
 }
 
 .info .item .info .title {
-  font-size: var(--font-small);
+  font-size: var(--font-medium);
 }
 
 .info .text {
@@ -150,7 +150,7 @@ body > .info {
 }
 
 .upNext .item .info .title {
-  font-size: var(--font-small);
+  font-size: var(--font-medium);
 }
 
 .upNext .item .info .name,

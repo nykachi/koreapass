@@ -16,3 +16,15 @@
   left: 50%;
   transform: translate(-50%);
 }
+
+@media screen and (max-width: 900px) {
+  body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  .reactPlayer {
+    max-width: 100%;
+  }
+}
