@@ -8,7 +8,7 @@ import sikgak from '../../img/sikgak.png';
 const Kmusic001 = () => {
   return (
     <>
-      <div className={classes.Kmusic} id="kmusic">
+      <div className={classes.Kmusic} id="kFood">
         <PageHeader title={'K-Food'} />
       </div>
 

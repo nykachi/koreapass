@@ -14,6 +14,7 @@ import VideoModal from './components/VideoModal/VideoModal';
 import VideoModal003 from './components/VideoModal/VideoModal002';
 import VideoModalTest from './components/VideoModal/VideoModalTest';
 import Kfood from './components/kfood/Kfood';
+import Ktv from './components/ktv/Ktv';
 /*import MostList from './components/MostList/MostList';*/
 
 const App = () => {
@@ -22,6 +23,7 @@ const App = () => {
       <NavBar />
       <Video />
       <MostList001 />
+      <Ktv />
       <Home001 />
 
       <Kmusic />

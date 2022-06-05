@@ -90,7 +90,7 @@ const Home001 = () => {
             </li>
           </ul>
         </section>
-        /* Next */
+
         <section className={classes.upNext}>
           <ul>
             <li className={classes.item}>
