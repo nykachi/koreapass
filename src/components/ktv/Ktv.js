@@ -119,7 +119,7 @@ const Ktv = () => {
   return (
     <>
       <div className={classes.MostList}>
-        <div className={classes.MostList} id="Mostlists">
+        <div className={classes.MostList} id="ktv">
           <h2>K-TV Watch Free or Paid</h2>
         </div>
         <div className={classes.Container}>
