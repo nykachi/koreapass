@@ -21,7 +21,7 @@ const kTvOne = (
     </li>
     <li>
       <a href="http://fdrama.net/" target="_blank" rel="noopener noreferrer">
-        FDrama
+        FDrama TV
       </a>
     </li>
     <li>
@@ -41,12 +41,21 @@ const kTvOne = (
         target="_blank"
         rel="noopener noreferrer"
       >
-        New Asian Tv
+        New Asian TV
+      </a>
+    </li>
+    <li>
+      <a
+        href="https://dongyoungsang.club/"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Dongyoungsang
       </a>
     </li>
     <li>
       <a href="https://yepdrama.com/" target="_blank" rel="noopener noreferrer">
-        View Asian Tv
+        View Asian TV
       </a>
     </li>
   </ul>
@@ -55,6 +64,16 @@ const kTvOne = (
 const kTvTwo = (
   <ul>
     <li style={listTitleStyle}>K TV List 2</li>
+
+    <li>
+      <a
+        href=" https://ktownstory.com/"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Ktownstory TV
+      </a>
+    </li>
     <li>
       <a
         href="https://a11.koreanz.xyz/"

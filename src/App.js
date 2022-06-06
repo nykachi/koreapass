@@ -11,11 +11,10 @@ import Kmusic from './components/Kmusic/Kmusic';
 
 import VideoModal from './components/VideoModal/VideoModal';
 
-import VideoModal003 from './components/VideoModal/VideoModal002';
-import VideoModalTest from './components/VideoModal/VideoModalTest';
 import Kfood from './components/kfood/Kfood';
 import Ktv from './components/ktv/Ktv';
 /*import MostList from './components/MostList/MostList';*/
+import VideoList from './components/List/VideoList';
 
 const App = () => {
   return (
@@ -30,9 +29,9 @@ const App = () => {
 
       <Kfood />
 
+      <VideoList />
+
       <VideoModal />
-      <VideoModal003 />
-      <VideoModalTest />
     </div>
   );
 };

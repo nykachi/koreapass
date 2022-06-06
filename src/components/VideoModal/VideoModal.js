@@ -18,7 +18,7 @@ export default function VideoResponModal() {
       />
 
       <button className="btn-primary" onClick={() => setOpen(true)}>
-        Open Video
+        Open My Flying MTB Video
       </button>
     </React.Fragment>
   );

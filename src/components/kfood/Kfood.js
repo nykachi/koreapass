@@ -5,7 +5,7 @@ import koreabab from '../../img/koreabab.png';
 import tasteguy from '../../img/tasteguy.png';
 import sikgak from '../../img/sikgak.png';
 
-const Kmusic001 = () => {
+const Kfood = () => {
   return (
     <>
       <div className={classes.Kmusic} id="kFood">
@@ -27,7 +27,11 @@ const Kmusic001 = () => {
               </div>
               <div className={classes.info}>
                 <span className={classes.title}>
-                  백종원 클라쓰 / Fun Cooking with Korea Tour.
+                  백종원 클라쓰
+                  <br />
+                  Paik's Class
+                  <br />
+                  Fun Cooking with Korea Tour.
                 </span>
               </div>
             </li>
@@ -43,7 +47,11 @@ const Kmusic001 = () => {
               </div>
               <div className={classes.info}>
                 <span className={classes.title}>
-                  한국인의 밥상 / Most of Korean Food in Core...
+                  한국인의 밥상
+                  <br />
+                  Most Korean Food in Corea
+                  <br />
+                  Enjouy the korea scenery
                 </span>
               </div>
             </li>
@@ -64,7 +72,11 @@ const Kmusic001 = () => {
               </div>
               <div className={classes.info}>
                 <span className={classes.title}>
-                  맛있는 녀석들 / Funny Guys Food Tour ...
+                  맛있는 녀석들
+                  <br />
+                  Most Korean Food in Corea
+                  <br />
+                  Funny Guys Food Tour ...
                 </span>
               </div>
             </li>
@@ -81,7 +93,11 @@ const Kmusic001 = () => {
               </div>
               <div className={classes.info}>
                 <span className={classes.title}>
-                  식객 허영만의 백반기행 / Tour in Korea Taste Restaurants.
+                  식객 허영만의 백반기행
+                  <br />
+                  Most Korean Food in Corea
+                  <br />
+                  Tour in Korea Taste Restaurants.
                 </span>
               </div>
             </li>
@@ -92,4 +108,4 @@ const Kmusic001 = () => {
   );
 };
 
-export default Kmusic001;
+export default Kfood;
