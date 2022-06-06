@@ -15,6 +15,7 @@ import Kfood from './components/kfood/Kfood';
 import Ktv from './components/ktv/Ktv';
 /*import MostList from './components/MostList/MostList';*/
 import VideoList from './components/List/VideoList';
+import Kculture from './components/kculture/Kculture';
 
 const App = () => {
   return (
@@ -28,6 +29,7 @@ const App = () => {
       <Kmusic />
 
       <Kfood />
+      <Kculture />
 
       <VideoList />
 

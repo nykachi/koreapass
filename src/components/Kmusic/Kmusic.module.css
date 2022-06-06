@@ -78,7 +78,7 @@ body > .info {
 }
 
 .info .item .img {
-  font-size: var(--font-small);
+  font-size: var(--font-medium);
   color: var(--grey-dark-color);
 }
 
@@ -92,7 +92,7 @@ body > .info {
 }
 
 .info .text {
-  font-size: var(--font-small);
+  font-size: var(--font-medium);
   color: var(--grey-dark-color);
 }
 
@@ -150,7 +150,7 @@ body > .info {
 }
 
 .upNext .item .info .title {
-  font-size: var(--font-large);
+  font-size: var(--font-medium);
 }
 
 .upNext .item .info .name,

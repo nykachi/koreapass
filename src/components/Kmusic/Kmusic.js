@@ -76,7 +76,7 @@ const Kmusic = () => {
           </ul>
         </section>
 
-        <section className={classes.upNext}>
+        <section className={classes.info}>
           <ul>
             <li className={classes.item}>
               <div className={classes.img}>
