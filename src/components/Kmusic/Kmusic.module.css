@@ -182,4 +182,9 @@ body > .info {
     border-top: 10px solid var(--grey-light-color);
     border-bottom: none;
   }
+  .upNext {
+    padding: 0 var(--padding);
+    border-top: 1px solid var(--grey-light-color);
+    border-bottom: 10px solid var(--grey-light-color);
+  }
 }

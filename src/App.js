@@ -16,7 +16,7 @@ import Ktv from './components/ktv/Ktv';
 /*import MostList from './components/MostList/MostList';*/
 import VideoList from './components/List/VideoList';
 import Kculture from './components/kculture/Kculture';
-
+import Footer from './components/footer/Footer';
 const App = () => {
   return (
     <div className="App">
@@ -34,6 +34,7 @@ const App = () => {
       <VideoList />
 
       <VideoModal />
+      <Footer />
     </div>
   );
 };

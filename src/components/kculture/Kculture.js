@@ -38,7 +38,7 @@ const Kculture = () => {
                   <img src={koreatour} className={classes.koreatour} alt="" />
                 </a>
                 <span className={classes.title}>
-                  This Week Beautiful and Cool Korean Country .
+                  This Week Beautiful and Cool Korea Country .
                 </span>
               </div>
             </li>
