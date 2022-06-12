@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.be42bf2e.css",
-    "main.js": "/static/js/main.a8e4dfdb.js",
+    "main.css": "/static/css/main.4718c509.css",
+    "main.js": "/static/js/main.137faa25.js",
     "static/media/kvillekpop.png": "/static/media/kvillekpop.644c792c7b2e7e1a051a.png",
     "static/media/ivekpop.png": "/static/media/ivekpop.0760bb3d24b5292a8b27.png",
     "static/media/starkpop.png": "/static/media/starkpop.446828bb9766387e944e.png",
@@ -27,11 +27,11 @@
     "static/media/bts453.jpg": "/static/media/bts453.6c2efecef7bbf18aa840.jpg",
     "static/media/tm45311.jpg": "/static/media/tm45311.e827a67a902ecfceca09.jpg",
     "index.html": "/index.html",
-    "main.be42bf2e.css.map": "/static/css/main.be42bf2e.css.map",
-    "main.a8e4dfdb.js.map": "/static/js/main.a8e4dfdb.js.map"
+    "main.4718c509.css.map": "/static/css/main.4718c509.css.map",
+    "main.137faa25.js.map": "/static/js/main.137faa25.js.map"
   },
   "entrypoints": [
-    "static/css/main.be42bf2e.css",
-    "static/js/main.a8e4dfdb.js"
+    "static/css/main.4718c509.css",
+    "static/js/main.137faa25.js"
   ]
 }
