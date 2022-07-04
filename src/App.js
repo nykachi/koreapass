@@ -16,7 +16,9 @@ import Ktv from './components/ktv/Ktv';
 /*import MostList from './components/MostList/MostList';*/
 import VideoList from './components/List/VideoList';
 import Kculture from './components/kculture/Kculture';
+import Kent from './components/k-ent/Kent';
 import Footer from './components/footer/Footer';
+
 const App = () => {
   return (
     <div className="App">
@@ -25,7 +27,7 @@ const App = () => {
       <MostList001 />
       <Ktv />
       <Home001 />
-
+      <Kent />
       <Kmusic />
 
       <Kfood />

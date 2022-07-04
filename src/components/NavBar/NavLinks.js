@@ -16,6 +16,9 @@ const NavLinks = (props) => {
             <a href="/#ktv">K-TV</a>
           </li>
           <li onClick={() => props.isMobile && props.closeMobileMenu()}>
+            <a href="/#kent">K-Ent,</a>
+          </li>
+          <li onClick={() => props.isMobile && props.closeMobileMenu()}>
             <a href="/#kmusic">K-Music</a>
           </li>
 
@@ -28,9 +31,7 @@ const NavLinks = (props) => {
           <li onClick={() => props.isMobile && props.closeMobileMenu()}>
             <a href="/#hotplace">Hot-place</a>
           </li>
-          <li onClick={() => props.isMobile && props.closeMobileMenu()}>
-            <a href="/#kTV">K-Ent,</a>
-          </li>
+
           <li onClick={() => props.isMobile && props.closeMobileMenu()}>
             <a href="/#kGuide">K-Others</a>
           </li>

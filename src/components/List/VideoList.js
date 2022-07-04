@@ -5,13 +5,13 @@ const list = [
   {
     id: 'a',
     videourl: (
-      <Video001 url="https://www.youtube.com/watch?v=WMweEpGlu_U&ab_channel=HYBELABELS" />
+      <Video001 url="https://www.youtube.com/watch?v=RROL2EEHpaM&list=PLzJT711y0gzIR0tX5hxYSU2TsFB5p8pni&ab_channel=%EC%8A%A4%EB%B8%8C%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%8C%9D%2FSBSKPOP" />
     ),
   },
   {
     id: 'b',
     videourl: (
-      <Video001 url="https://www.youtube.com/watch?v=RcrwSWw3bH8&ab_channel=KBSKpop" />
+      <Video001 url="https://www.youtube.com/watch?v=RX53uvLfNRQ&list=PLjUVzlcpeN4RVS7Vyq5cHCVCUX9JqG_pi&ab_channel=MnetK-POP" />
     ),
   },
   {
@@ -23,13 +23,13 @@ const list = [
   {
     id: 'd',
     videourl: (
-      <Video001 url="https://www.youtube.com/watch?v=NieStzYDS-I&ab_channel=TVCHOSUN-TV%EC%A1%B0%EC%84%A0" />
+      <Video001 url="https://www.youtube.com/watch?v=RcrwSWw3bH8&ab_channel=KBSKpop" />
     ),
   },
   {
     id: 'e',
     videourl: (
-      <Video001 url="https://www.youtube.com/watch?v=3kpeOhq34nU&ab_channel=KBS%EA%B5%90%EC%96%91" />
+      <Video001 url="https://www.youtube.com/watch?v=rk8UqT7vidk&ab_channel=K-VilleEntertainment" />
     ),
   },
   {

@@ -10,7 +10,7 @@ const Video = () => {
         width={'100%'}
         height={'100%'}
         controls
-        url="https://www.youtube.com/watch?v=WI-0sKDT4iI&ab_channel=TheLateLateShowwithJamesCorden"
+        url="https://www.youtube.com/watch?v=JCSBdgDYffs&t=801s&ab_channel=K-VilleEntertainment"
       />
     </div>
   );
