@@ -66,9 +66,9 @@ const Kent = () => {
                   <img src={runningman} className={classes.runningman} alt="" />
                 </a>
                 <p className={classes.tt}>
-                  Gukak, Korean classical.
+                  Running Man.
                   <br />
-                  chang, K Traditional Song
+                  런닝맨
                 </p>
               </div>
 
