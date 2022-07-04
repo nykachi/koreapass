@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4718c509.css",
-    "main.js": "/static/js/main.137faa25.js",
+    "main.js": "/static/js/main.dc7a4e0d.js",
     "static/media/kvillekpop.png": "/static/media/kvillekpop.644c792c7b2e7e1a051a.png",
     "static/media/ivekpop.png": "/static/media/ivekpop.0760bb3d24b5292a8b27.png",
     "static/media/starkpop.png": "/static/media/starkpop.446828bb9766387e944e.png",
@@ -11,27 +11,35 @@
     "static/media/chang.png": "/static/media/chang.24144bd67055a420d3b7.png",
     "static/media/simkorea.png": "/static/media/simkorea.ff9fe84b63c2d58a5ece.png",
     "static/media/docu3days.png": "/static/media/docu3days.db623e8fa05cacf47dca.png",
+    "static/media/runningman.png": "/static/media/runningman.fa37d3085c8434e7ed25.png",
+    "static/media/sbsingeegayo.png": "/static/media/sbsingeegayo.d92568660e4a24210ac4.png",
     "static/media/mnetkpop.png": "/static/media/mnetkpop.557fec620237844b3d5f.png",
     "static/media/backclass.png": "/static/media/backclass.aafe01678d8811b3dc6e.png",
+    "static/media/daehan.png": "/static/media/daehan.cf909f3195d72277e968.png",
     "static/media/kimyoung.png": "/static/media/kimyoung.cc9f04f5c2767e1fd714.png",
+    "static/media/youheyeul.png": "/static/media/youheyeul.5c4ccb50eb3c9d1983b2.png",
     "static/media/fourthingsplay.png": "/static/media/fourthingsplay.25678bf59a2b2aa43b6b.png",
     "static/media/tasteguy.png": "/static/media/tasteguy.f357ffeead5896068de3.png",
     "static/media/mbckpop.png": "/static/media/mbckpop.1b2c662195af791fe706.png",
+    "static/media/onenighttwoday.png": "/static/media/onenighttwoday.db94277fd920231a52b7.png",
     "static/media/koreabab.png": "/static/media/koreabab.e285a5da19a00035f23c.png",
     "static/media/tkd.png": "/static/media/tkd.8f0b453c8d57315e9556.png",
     "static/media/koreatour.png": "/static/media/koreatour.1c5c331aabb11b8d7ff4.png",
+    "static/media/maskedsong.png": "/static/media/maskedsong.2519478e5cbafa4e0659.png",
     "static/media/sikgak.png": "/static/media/sikgak.fb8609de7739c98057e7.png",
     "static/media/planetkpop.png": "/static/media/planetkpop.33d22208a5a78becbe6f.png",
+    "static/media/nolmyun.png": "/static/media/nolmyun.44c8faa1de5a0e5f0c03.png",
     "static/media/sangsang.png": "/static/media/sangsang.e22a217d40c0f06f7f16.png",
     "static/media/kbskpop.png": "/static/media/kbskpop.38e069c12d396690833b.png",
     "static/media/bts453.jpg": "/static/media/bts453.6c2efecef7bbf18aa840.jpg",
     "static/media/tm45311.jpg": "/static/media/tm45311.e827a67a902ecfceca09.jpg",
+    "static/media/firsttimekorea.png": "/static/media/firsttimekorea.7ea857f4dc51a67b030a.png",
     "index.html": "/index.html",
     "main.4718c509.css.map": "/static/css/main.4718c509.css.map",
-    "main.137faa25.js.map": "/static/js/main.137faa25.js.map"
+    "main.dc7a4e0d.js.map": "/static/js/main.dc7a4e0d.js.map"
   },
   "entrypoints": [
     "static/css/main.4718c509.css",
-    "static/js/main.137faa25.js"
+    "static/js/main.dc7a4e0d.js"
   ]
 }
