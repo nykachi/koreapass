@@ -18,18 +18,19 @@ import VideoList from './components/List/VideoList';
 import Kculture from './components/kculture/Kculture';
 import Kent from './components/k-ent/Kent';
 import Footer from './components/footer/Footer';
+import HotPlace from './components/hotPlace/HotPlace';
 
 const App = () => {
   return (
     <div className="App">
       <NavBar />
       <Video />
+      <HotPlace />
       <MostList001 />
       <Ktv />
       <Home001 />
       <Kent />
       <Kmusic />
-
       <Kfood />
       <Kculture />
 
