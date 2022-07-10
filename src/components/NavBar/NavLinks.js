@@ -10,6 +10,9 @@ const NavLinks = (props) => {
 
         <ul className={classes.menu}>
           <li onClick={() => props.isMobile && props.closeMobileMenu()}>
+            <a href="/#hotplace">Hot-place</a>
+          </li>
+          <li onClick={() => props.isMobile && props.closeMobileMenu()}>
             <a href="/#Mostlists">K-MostList</a>
           </li>
           <li onClick={() => props.isMobile && props.closeMobileMenu()}>
@@ -27,9 +30,6 @@ const NavLinks = (props) => {
           </li>
           <li onClick={() => props.isMobile && props.closeMobileMenu()}>
             <a href="/#kCulture">K-Culture</a>
-          </li>
-          <li onClick={() => props.isMobile && props.closeMobileMenu()}>
-            <a href="/#hotplace">Hot-place</a>
           </li>
 
           <li onClick={() => props.isMobile && props.closeMobileMenu()}>

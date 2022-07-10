@@ -423,7 +423,7 @@ const HotPlace = () => {
   return (
     <>
       <div className={classes.MostList}>
-        <div className={classes.MostList} id="Mostlists">
+        <div className={classes.MostList} id="hotplace">
           <h2>HotPlace in Korea</h2>
         </div>
         <div className={classes.Container}>
