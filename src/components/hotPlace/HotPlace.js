@@ -63,7 +63,7 @@ const Busan = (
     </li>
     <li>
       <a
-        href="https://www.google.com/maps/search/%EB%B6%80%EC%82%B0%EB%A7%9B%EC%A7%91/@35.1213109,129.0469158,12z/data=!3m1!4b1?hl=en"
+        href="https://www.google.com/maps/search/%EB%B6%80%EC%82%B0%EB%A7%9B%EC%A7%91/@35.131089,129.0600195,12.74z?hl=en"
         target="_blank"
         rel="noopener noreferrer"
       >
