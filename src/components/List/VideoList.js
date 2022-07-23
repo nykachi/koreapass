@@ -17,7 +17,7 @@ const list = [
   {
     id: 'c',
     videourl: (
-      <Video001 url="https://www.youtube.com/watch?v=yNaFYpBVPHA&list=PLzJT711y0gzKBaSIsYp_pnvsk58mwmy-s&ab_channel=%EC%8A%A4%EB%B8%8C%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%8C%9D%2FSBSKPOP" />
+      <Video001 url="https://www.youtube.com/watch?v=Bo2aD_I7-1U&list=PLPhtNKiHTFyr-iGUGeQ4bgQmrwl95EenR&ab_channel=IVE" />
     ),
   },
   {

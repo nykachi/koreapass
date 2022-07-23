@@ -25,9 +25,9 @@ const App = () => {
     <div className="App">
       <NavBar />
       <Video />
-      <HotPlace />
       <MostList001 />
       <Ktv />
+      <HotPlace />
       <Home001 />
       <Kent />
       <Kmusic />
