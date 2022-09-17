@@ -37,7 +37,7 @@ const kTvOne = (
     </li>
     <li>
       <a
-        href="https://newasiantv.info/"
+        href="https://newasiantv.in/"
         target="_blank"
         rel="noopener noreferrer"
       >
@@ -55,7 +55,7 @@ const kTvOne = (
     </li>
     <li>
       <a href="https://yepdrama.com/" target="_blank" rel="noopener noreferrer">
-        View Asian TV
+        Asian Drama Movies
       </a>
     </li>
   </ul>
@@ -102,13 +102,8 @@ const kTvTwo = (
       </a>
     </li>
     <li>
-      <a href="https://takitv.net/" target="_blank" rel="noopener noreferrer">
-        Taki TV
-      </a>
-    </li>
-    <li>
-      <a href="https://peekle.tv/" target="_blank" rel="noopener noreferrer">
-        Peekle TV
+      <a href="https://kokoa.tv/" target="_blank" rel="noopener noreferrer">
+        Kokoa TV
       </a>
     </li>
     <li>
