@@ -5,7 +5,7 @@ const list = [
   {
     id: 'a',
     videourl: (
-      <Video001 url="https://www.youtube.com/watch?v=5ImKmqUtkYE&list=PLWDz_A_ER6368ASOhr2qDnqbIm5knWv2Z&ab_channel=MBCkpop" />
+      <Video001 url="https://www.youtube.com/watch?v=cJ4biaTRFkY&list=PLOJ1nP1cWwjHNrtvvCEiXZWRybopaLwNV&ab_channel=K-VilleEntertainment" />
     ),
   },
   {
