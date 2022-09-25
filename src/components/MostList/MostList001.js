@@ -62,7 +62,7 @@ const kPop = (
         target="_blank"
         rel="noopener noreferrer"
       >
-        Gugak'K-Traditional-Music'
+        Gugak'K-Traditional'
       </a>
     </li>
   </ul>
@@ -174,6 +174,15 @@ const kFoodTVShow = (
         rel="noopener noreferrer"
       >
         한국인의 술상
+      </a>
+    </li>
+    <li>
+      <a
+        href="https://goguma.tv/index.php/vod/search/wd/%ED%86%A0%EC%9A%94%EC%9D%BC%EC%9D%80%20%EB%B0%A5%EC%9D%B4%20%EC%A2%8B%EC%95%84.html"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        토요일은 밥이 좋아
       </a>
     </li>
   </ul>

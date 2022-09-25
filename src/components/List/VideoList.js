@@ -11,19 +11,19 @@ const list = [
   {
     id: 'b',
     videourl: (
-      <Video001 url="https://www.youtube.com/watch?v=5ImKmqUtkYE&list=PLWDz_A_ER6368ASOhr2qDnqbIm5knWv2Z&ab_channel=MBCkpop" />
+      <Video001 url="https://www.youtube.com/watch?v=Xoz3WtFNfwk&list=PLzJT711y0gzKlX2zmi110yo4g5SwtWUL5&ab_channel=%EC%8A%A4%EB%B8%8C%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%8C%9DXINKIGAYO" />
     ),
   },
   {
     id: 'c',
     videourl: (
-      <Video001 url="https://www.youtube.com/watch?v=Bo2aD_I7-1U&list=PLPhtNKiHTFyr-iGUGeQ4bgQmrwl95EenR&ab_channel=IVE" />
+      <Video001 url="https://www.youtube.com/watch?v=4J-g7ida_WE&list=PLWDz_A_ER635jYO8vyTVw7BFFuqxAKura&ab_channel=MBCkpop" />
     ),
   },
   {
     id: 'd',
     videourl: (
-      <Video001 url="https://www.youtube.com/watch?v=RcrwSWw3bH8&ab_channel=KBSKpop" />
+      <Video001 url="https://www.youtube.com/watch?v=Vjk8SjbjxRA&ab_channel=ImagineYourKorea" />
     ),
   },
   {

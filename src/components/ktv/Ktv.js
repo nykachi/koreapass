@@ -115,6 +115,11 @@ const kTvTwo = (
         18 Best K-TV Links
       </a>
     </li>
+    <li>
+      <a href="https://goguma.tv/" target="_blank" rel="noopener noreferrer">
+        Goguma66.TV
+      </a>
+    </li>
   </ul>
 );
 
