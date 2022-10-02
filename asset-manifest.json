@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f8839e8e.css",
-    "main.js": "/static/js/main.7e99a375.js",
+    "main.js": "/static/js/main.9738a552.js",
     "static/media/kvillekpop.png": "/static/media/kvillekpop.644c792c7b2e7e1a051a.png",
     "static/media/ivekpop.png": "/static/media/ivekpop.0760bb3d24b5292a8b27.png",
     "static/media/starkpop.png": "/static/media/starkpop.446828bb9766387e944e.png",
@@ -36,10 +36,10 @@
     "static/media/firsttimekorea.png": "/static/media/firsttimekorea.7ea857f4dc51a67b030a.png",
     "index.html": "/index.html",
     "main.f8839e8e.css.map": "/static/css/main.f8839e8e.css.map",
-    "main.7e99a375.js.map": "/static/js/main.7e99a375.js.map"
+    "main.9738a552.js.map": "/static/js/main.9738a552.js.map"
   },
   "entrypoints": [
     "static/css/main.f8839e8e.css",
-    "static/js/main.7e99a375.js"
+    "static/js/main.9738a552.js"
   ]
 }
