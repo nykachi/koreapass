@@ -5,7 +5,7 @@ const list = [
   {
     id: 'a',
     videourl: (
-      <Video001 url="https://www.youtube.com/watch?v=cJ4biaTRFkY&list=PLOJ1nP1cWwjHNrtvvCEiXZWRybopaLwNV&ab_channel=K-VilleEntertainment" />
+      <Video001 url="https://www.youtube.com/watch?v=m3EuKUIvYTE&ab_channel=K-VilleEntertainment" />
     ),
   },
   {
@@ -14,6 +14,14 @@ const list = [
       <Video001 url="https://www.youtube.com/watch?v=Xoz3WtFNfwk&list=PLzJT711y0gzKlX2zmi110yo4g5SwtWUL5&ab_channel=%EC%8A%A4%EB%B8%8C%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%8C%9DXINKIGAYO" />
     ),
   },
+
+  {
+    id: 'ba',
+    videourl: (
+      <Video001 url="https://www.youtube.com/watch?v=eo6dcv18oA4&ab_channel=MnetK-POP" />
+    ),
+  },
+
   {
     id: 'c',
     videourl: (
