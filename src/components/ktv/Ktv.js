@@ -33,12 +33,6 @@ const kTvOne = (
         Peekle TV
       </a>
     </li>
-
-    <li>
-      <a href="https://www.viki.com/" target="_blank" rel="noopener noreferrer">
-        Viki TV
-      </a>
-    </li>
     <li>
       <a
         href="https://newasiantv.in/"
