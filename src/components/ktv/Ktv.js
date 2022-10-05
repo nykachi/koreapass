@@ -20,13 +20,17 @@ const kTvOne = (
       </a>
     </li>
     <li>
-      <a href="http://fdrama.net/" target="_blank" rel="noopener noreferrer">
+      <a
+        href="http://fdrama.net/browse/korean/dramas/all/all/all/0"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
         FDrama TV
       </a>
     </li>
     <li>
-      <a href="http://kshow123.net/" target="_blank" rel="noopener noreferrer">
-        K-TvShow
+      <a href="https://peekle.tv/" target="_blank" rel="noopener noreferrer">
+        Peekle TV
       </a>
     </li>
 
@@ -44,15 +48,7 @@ const kTvOne = (
         New Asian TV
       </a>
     </li>
-    <li>
-      <a
-        href="https://dongyoungsang.club/"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        Dongyoungsang
-      </a>
-    </li>
+
     <li>
       <a href="https://yepdrama.com/" target="_blank" rel="noopener noreferrer">
         Asian Drama Movies
@@ -76,7 +72,7 @@ const kTvTwo = (
     </li>
     <li>
       <a
-        href="https://a11.koreanz.xyz/"
+        href="https://a28.koreanz.xyz/"
         target="_blank"
         rel="noopener noreferrer"
       >
@@ -101,11 +97,17 @@ const kTvTwo = (
         Somsatang TV
       </a>
     </li>
+
     <li>
-      <a href="https://kokoa.tv/" target="_blank" rel="noopener noreferrer">
-        Kokoa TV
+      <a
+        href="https://k51.qooqootv.fun/"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        GooGoo TV
       </a>
     </li>
+
     <li>
       <a
         href="https://www.techworm.net/2018/12/best-websites-download-korean-dramas-free.html"
@@ -113,11 +115,6 @@ const kTvTwo = (
         rel="noopener noreferrer"
       >
         18 Best K-TV Links
-      </a>
-    </li>
-    <li>
-      <a href="https://goguma.tv/" target="_blank" rel="noopener noreferrer">
-        Goguma66.TV
       </a>
     </li>
   </ul>
