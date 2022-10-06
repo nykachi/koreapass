@@ -178,7 +178,7 @@ const kFoodTVShow = (
     </li>
     <li>
       <a
-        href="https://goguma.tv/index.php/vod/search/wd/%ED%86%A0%EC%9A%94%EC%9D%BC%EC%9D%80%20%EB%B0%A5%EC%9D%B4%20%EC%A2%8B%EC%95%84.html"
+        href="https://www.youtube.com/playlist?app=desktop&list=PLF2aEimYZTYevCmsWbW8wwmpw96UkRy-Z"
         target="_blank"
         rel="noopener noreferrer"
       >
