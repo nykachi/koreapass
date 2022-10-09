@@ -33,19 +33,19 @@ const kTvOne = (
         Peekle TV
       </a>
     </li>
-    <li>
-      <a
-        href="https://newasiantv.in/"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        New Asian TV
-      </a>
-    </li>
 
     <li>
       <a href="https://yepdrama.com/" target="_blank" rel="noopener noreferrer">
         Asian Drama Movies
+      </a>
+    </li>
+    <li>
+      <a
+        href="https://www.techworm.net/2018/12/best-websites-download-korean-dramas-free.html"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        18 Best K-TV Links
       </a>
     </li>
   </ul>
@@ -89,26 +89,6 @@ const kTvTwo = (
         rel="noopener noreferrer"
       >
         Somsatang TV
-      </a>
-    </li>
-
-    <li>
-      <a
-        href="https://k51.qooqootv.fun/"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        GooGoo TV
-      </a>
-    </li>
-
-    <li>
-      <a
-        href="https://www.techworm.net/2018/12/best-websites-download-korean-dramas-free.html"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        18 Best K-TV Links
       </a>
     </li>
   </ul>

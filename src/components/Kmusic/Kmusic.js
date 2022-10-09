@@ -93,7 +93,7 @@ const Kmusic = () => {
               </div>
               <div className={classes.img}>
                 <a
-                  href="https://www.youtube.com/c/kpopplanethere/videos"
+                  href="https://www.youtube.com/c/KpopPlanet/videos"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

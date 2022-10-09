@@ -39,7 +39,7 @@ body {
 }
 
 .MostList .Container .List {
-  flex-basis: 33.33%;
+  flex-basis: 50%;
   background-color: black;
   box-shadow: 0 0 12px 4px white;
   border-radius: 5px;
