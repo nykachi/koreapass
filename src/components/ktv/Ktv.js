@@ -3,7 +3,7 @@ import classes from './Ktv.module.css';
 
 const listTitleStyle = {
   fontWeight: 900,
-  color: '#9B1FE8',
+  color: '#10e8ab',
   marginBottom: '0.5rem',
 };
 

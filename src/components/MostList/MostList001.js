@@ -3,7 +3,7 @@ import classes from './MostList001.module.css';
 
 const listTitleStyle = {
   fontWeight: 900,
-  color: '#9B1FE8',
+  color: '#10e8ab',
   marginBottom: '0.5rem',
 };
 
@@ -62,7 +62,7 @@ const kPop = (
         target="_blank"
         rel="noopener noreferrer"
       >
-        Gugak'K-Traditional'
+        Gugak KTraditional
       </a>
     </li>
   </ul>
@@ -104,7 +104,7 @@ const kFood = (
         target="_blank"
         rel="noopener noreferrer"
       >
-        10000 Recipes
+        10000,Recipes
       </a>
     </li>
     <li>
