@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.4527fa46.css",
+    "main.css": "/static/css/main.1972df19.css",
     "main.js": "/static/js/main.ef8dfecd.js",
     "static/media/kvillekpop.png": "/static/media/kvillekpop.644c792c7b2e7e1a051a.png",
     "static/media/ivekpop.png": "/static/media/ivekpop.0760bb3d24b5292a8b27.png",
@@ -35,11 +35,11 @@
     "static/media/tm45311.jpg": "/static/media/tm45311.e827a67a902ecfceca09.jpg",
     "static/media/firsttimekorea.png": "/static/media/firsttimekorea.7ea857f4dc51a67b030a.png",
     "index.html": "/index.html",
-    "main.4527fa46.css.map": "/static/css/main.4527fa46.css.map",
+    "main.1972df19.css.map": "/static/css/main.1972df19.css.map",
     "main.ef8dfecd.js.map": "/static/js/main.ef8dfecd.js.map"
   },
   "entrypoints": [
-    "static/css/main.4527fa46.css",
+    "static/css/main.1972df19.css",
     "static/js/main.ef8dfecd.js"
   ]
 }
