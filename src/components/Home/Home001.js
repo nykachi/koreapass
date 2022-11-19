@@ -49,9 +49,9 @@ const Home001 = () => {
                   />
                 </a>
                 <p className={classes.tt}>
-                  Samulnori, K Traditional
+                  Korean Culture Center NY
                   <br />
-                  Percussion Quartet
+                  뉴욕한국문화원
                 </p>
               </div>
             </li>
