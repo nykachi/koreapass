@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1972df19.css",
-    "main.js": "/static/js/main.ef8dfecd.js",
+    "main.css": "/static/css/main.9a806a12.css",
+    "main.js": "/static/js/main.1ae98d70.js",
     "static/media/kvillekpop.png": "/static/media/kvillekpop.644c792c7b2e7e1a051a.png",
     "static/media/ivekpop.png": "/static/media/ivekpop.0760bb3d24b5292a8b27.png",
     "static/media/starkpop.png": "/static/media/starkpop.446828bb9766387e944e.png",
@@ -9,7 +9,6 @@
     "static/media/gugakorche.png": "/static/media/gugakorche.9d3cb16a556596ef249f.png",
     "static/media/icnairport.png": "/static/media/icnairport.5107798ea4e7a3267540.png",
     "static/media/chang.png": "/static/media/chang.24144bd67055a420d3b7.png",
-    "static/media/simkorea.png": "/static/media/simkorea.ff9fe84b63c2d58a5ece.png",
     "static/media/docu3days.png": "/static/media/docu3days.db623e8fa05cacf47dca.png",
     "static/media/runningman.png": "/static/media/runningman.fa37d3085c8434e7ed25.png",
     "static/media/sbsingeegayo.png": "/static/media/sbsingeegayo.d92568660e4a24210ac4.png",
@@ -34,12 +33,13 @@
     "static/media/bts453.jpg": "/static/media/bts453.6c2efecef7bbf18aa840.jpg",
     "static/media/tm45311.jpg": "/static/media/tm45311.e827a67a902ecfceca09.jpg",
     "static/media/firsttimekorea.png": "/static/media/firsttimekorea.7ea857f4dc51a67b030a.png",
+    "static/media/koreanculture.png": "/static/media/koreanculture.ca995dbbc5b89b7969d2.png",
     "index.html": "/index.html",
-    "main.1972df19.css.map": "/static/css/main.1972df19.css.map",
-    "main.ef8dfecd.js.map": "/static/js/main.ef8dfecd.js.map"
+    "main.9a806a12.css.map": "/static/css/main.9a806a12.css.map",
+    "main.1ae98d70.js.map": "/static/js/main.1ae98d70.js.map"
   },
   "entrypoints": [
-    "static/css/main.1972df19.css",
-    "static/js/main.ef8dfecd.js"
+    "static/css/main.9a806a12.css",
+    "static/js/main.1ae98d70.js"
   ]
 }
