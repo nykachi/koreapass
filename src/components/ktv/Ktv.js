@@ -19,20 +19,6 @@ const kTvOne = (
         Drama Cool
       </a>
     </li>
-    <li>
-      <a
-        href="http://fdrama.net/browse/korean/dramas/all/all/all/0"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        FDrama TV
-      </a>
-    </li>
-    <li>
-      <a href="https://peekle.tv/" target="_blank" rel="noopener noreferrer">
-        Peekle TV
-      </a>
-    </li>
 
     <li>
       <a href="https://yepdrama.com/" target="_blank" rel="noopener noreferrer">

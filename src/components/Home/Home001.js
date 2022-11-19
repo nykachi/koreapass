@@ -2,13 +2,12 @@ import classes from './../Kmusic/Kmusic.module.css';
 
 import bts453 from '../../img/bts453.jpg';
 import tm45311 from '../../img/tm45311.jpg';
-
+import koreanculture from '../../img/koreanculture.png';
 import fourthingsplay from '../../img/fourthingsplay.png';
 import chang from '../../img/chang.png';
 import tkd from '../../img/tkd.png';
 import gugakorche from '../../img/gugakorche.png';
 import icnairport from '../../img/icnairport.png';
-import simkorea from '../../img/simkorea.png';
 
 import PageHeader from '../PageHeader/PageHeader';
 
@@ -39,13 +38,13 @@ const Home001 = () => {
               </div>
               <div className={classes.img}>
                 <a
-                  href="https://www.youtube.com/results?search_query=%EC%82%AC%EB%AC%BC%EB%86%80%EC%9D%B4"
+                  href="https://www.koreanculture.org/"
                   target="_blank"
                   rel="noreferrer"
                 >
                   <img
-                    src={fourthingsplay}
-                    className={classes.fourthingsplay}
+                    src={koreanculture}
+                    className={classes.koreanculture}
                     alt=""
                   />
                 </a>
@@ -128,6 +127,24 @@ const Home001 = () => {
             <li className={classes.item}>
               <div class={classes.img}>
                 <a
+                  href="https://www.youtube.com/results?search_query=%EC%82%AC%EB%AC%BC%EB%86%80%EC%9D%B4"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img
+                    src={fourthingsplay}
+                    className={classes.fourthingsplay}
+                    alt=""
+                  />
+                </a>
+                <p className={classes.tt}>
+                  Samulnori, K Traditional
+                  <br />
+                  Percussion Quartet
+                </p>
+              </div>
+              <div className={classes.img}>
+                <a
                   href="https://www.youtube.com/results?search_query=how+to+get+from+incheon+airport+to+seoul+"
                   target="_blank"
                   rel="noreferrer"
@@ -138,20 +155,6 @@ const Home001 = () => {
                   How to ... Inchen to Seoul
                   <br />
                   Airport to Seoul.
-                </p>
-              </div>
-              <div className={classes.img}>
-                <a
-                  href="https://www.youtube.com/results?search_query=sim+cart+in+inchen+airport"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <img src={simkorea} className={classes.simkorea} alt="" />
-                </a>
-                <p className={classes.tt}>
-                  How to get SIM Card.
-                  <br />
-                  Get SIM Card in Airport
                 </p>
               </div>
             </li>
