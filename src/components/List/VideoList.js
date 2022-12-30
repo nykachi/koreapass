@@ -5,13 +5,13 @@ const list = [
   {
     id: 'a',
     videourl: (
-      <Video001 url="https://www.youtube.com/watch?v=Q_d-nFR3ELc&ab_channel=MnetK-POP" />
+      <Video001 url="https://www.youtube.com/watch?v=zGo7QWzsWbE&ab_channel=%EB%94%A9%EA%B0%80%EB%94%A9%EA%B0%80%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4DGDGStudio" />
     ),
   },
   {
     id: 'b',
     videourl: (
-      <Video001 url="https://www.youtube.com/watch?v=HfsenzfTxuI&ab_channel=%EC%8A%A4%EB%B8%8C%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%8C%9DXINKIGAYO" />
+      <Video001 url="https://www.youtube.com/watch?v=UmFeiOdoZ8o&ab_channel=%ED%95%9C%EA%B5%AD%EB%9D%BC%EB%94%94%EC%98%A4" />
     ),
   },
 
