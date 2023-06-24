@@ -10,7 +10,7 @@ const Video = () => {
         width={'100%'}
         height={'100%'}
         controls
-        url="https://www.youtube.com/watch?v=zcMZmdQERxQ&ab_channel=K-VilleEntertainment"
+        url="https://www.youtube.com/watch?v=RpCBXtUluxk&ab_channel=K-VilleEntertainment"
       />
     </div>
   );

@@ -331,7 +331,7 @@ const kFunTvShow = (
     </li>
     <li>
       <a
-        href="https://www.youtube.com/results?search_query=1%EB%B0%952%EC%9D%BC"
+        href="https://www.youtube.com/results?search_query=1%EB%B0%952%EC%9D%BC&sp=EgIIAw%253D%253D"
         target="_blank"
         rel="noopener noreferrer"
       >

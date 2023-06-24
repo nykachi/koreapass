@@ -12,19 +12,28 @@ const kTvOne = (
     <li style={listTitleStyle}>K TV List 1</li>
     <li>
       <a
-        href="https://www.dramacool9.co/"
+        href=" https://ktownstory.com/"
         target="_blank"
         rel="noopener noreferrer"
       >
-        Drama Cool
+        Ktownstory TV
+      </a>
+    </li>
+    <li>
+      <a
+        href="https://dongyoungsang.club/"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        동영상클럽
       </a>
     </li>
 
-    <li>
+    {/* <li>
       <a href="https://yepdrama.com/" target="_blank" rel="noopener noreferrer">
         Asian Drama Movies
       </a>
-    </li>
+    </li> */}
     <li>
       <a
         href="https://www.techworm.net/2018/12/best-websites-download-korean-dramas-free.html"
@@ -41,15 +50,6 @@ const kTvTwo = (
   <ul>
     <li style={listTitleStyle}>K TV List 2</li>
 
-    <li>
-      <a
-        href=" https://ktownstory.com/"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        Ktownstory TV
-      </a>
-    </li>
     <li>
       <a
         href="https://a28.koreanz.xyz/"
